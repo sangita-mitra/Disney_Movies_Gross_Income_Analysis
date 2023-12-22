@@ -17,7 +17,7 @@ Understanding these patterns offers valuable insights for Disney and the enterta
 
 🔍 **Future Questions:** What role does critical acclaim play? How are streaming platforms influencing these trends?
 
-👉 Check out the full analysis: https://colab.research.google.com/drive/1fWidYNIs0ylpyi_R88UXq8S-1TsE4SrV
+👉 **Check out the full analysis in Notebook**: https://colab.research.google.com/drive/1fWidYNIs0ylpyi_R88UXq8S-1TsE4SrV
 
 Let's keep the magic alive and the stories evolving! ✨🐭🏰 
 #DisneyMagic #DataAnalysis #Storytelling
